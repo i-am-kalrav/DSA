@@ -1,0 +1,15 @@
+{
+	"folders": [
+		{
+			"path": "..\\..\\..\\.vscode"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"stdlib.h": "c"
+		}
+	}
+}
